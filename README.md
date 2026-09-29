@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pixelpoetry57/Leetcode---solutions/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/pixelpoetry57/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pixelpoetry57/Leetcode---solutions/tree/master/0002-add-two-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/pixelpoetry57/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
